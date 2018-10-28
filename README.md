@@ -7,3 +7,4 @@
 
 总结：添加@RestController注解的类，会呈现json格式的数据响应
 测试有关：可以用postman发送请求，来进行测试。
+项目基于springboot
